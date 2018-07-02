@@ -1,0 +1,11 @@
+{
+  "name": "@dwstyle/colors",
+  "version": "0.1.1",
+  "description": "CSS and SCSS Color/Styling Variables For dWeb dSites and dApps.",
+  "main": "index.js",
+  "styles": "index.css",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
